@@ -4,7 +4,7 @@
 //• 有一成員方法名為speak()，用以列印上述兩個值
 //• 在main()裡藉由建構子產生一個Animal，同時初始化該物件的年紀和體重分別為2歲、5.0
 //公斤，並呼叫speak方法得到此Animal的成員變數值
-package hw1;
+package practice;
 
 public class Animal {
 	int age;

@@ -6,16 +6,16 @@
 //• 亂數之取得可參考 java.lang.Math的靜態方法 random()
 //• public static double random()
 //．傳回亂數值其範圍為0.0～1.0
-package hw1;
+package practice;
 
 public class TestRandomArray1 {
 	public static void main(String[] args) {
 
 		// step1:建立3個3*3的二維陣列
 
-		int x[][] = new int[3][3];
-		int y[][] = new int[3][3];
-		int z[][] = new int[3][3];
+		int [][]x = new int[3][3];
+		int [][]y = new int[3][3];
+		int [][]z = new int[3][3];
 
 		// step2:將隨機亂數填入到x陣列
 
@@ -55,5 +55,7 @@ public class TestRandomArray1 {
 		}
 		// step5:將3個陣列的元素列印顯示，觀察是否正確
 
+				
 	}
+	
 }

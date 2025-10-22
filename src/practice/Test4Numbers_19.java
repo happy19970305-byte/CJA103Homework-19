@@ -1,4 +1,4 @@
-package hw1;
+package practice;
 
 public class Test4Numbers_19 {
 	public static void main(String[] args) {

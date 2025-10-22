@@ -1,4 +1,4 @@
-package hw1;
+package practice;
 
 public class Elephant extends Animal{
 	String name;

@@ -1,4 +1,4 @@
-package hw1;
+package practice;
 
 public class Student {
 	int score = 90;
