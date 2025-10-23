@@ -20,9 +20,4 @@ public class Animal {
         System.out.println("我的體重是 " + weight + " 公斤");
     }
 	
-	public static void main(String[] args) {
-		Animal myAnimal = new Animal(2, 5.0f);
-		
-		myAnimal.speak();
-	}
 }
