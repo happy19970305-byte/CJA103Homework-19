@@ -1,4 +1,4 @@
-package hw5;
+package hw6;
 
 class Pencil extends Pen {
 
